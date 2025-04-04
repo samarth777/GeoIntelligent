@@ -3,10 +3,11 @@
 ## **Overview**  
 GeoIntelligent is a data-driven solution for identifying optimal solar and wind farm locations. It leverages IBM’s History on Demand API and Geospatial API to analyze weather, elevation, and infrastructure data to optimize energy yield.  
 
-<video width="720" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/fb6cb501-4866-42de-8e23-c73d67aa6724
+
+
 
 ## **Tech Stack**  
 - **Backend:** FastAPI 
